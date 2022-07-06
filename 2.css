@@ -1,0 +1,35 @@
+center{
+text-align:center;
+margin:100px;
+font-size:20px;
+box-shadow:0px 0px 10px 0px black;
+width:700px;
+margin-left:600px;
+
+
+
+}
+
+div{
+text-align:left;
+margin-left:100px;
+font-size:30px;
+}
+
+
+input{
+height:30px;
+width:500px;
+border-radius:5px;
+border-style:5px dashed red;
+font-size:20px;
+}
+
+
+
+.cc{
+text-align:center;
+
+
+
+}
